@@ -103,7 +103,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           작업기간 : 4주
 
-          작업개요 : 
+          작업개요 : 크래프톤 정글 4기 팀 프로젝트입니다.
 
           참여인원 : 5명
 
@@ -117,15 +117,18 @@ content:
 
       - layout: left
         border: weak 
-        title: 
+        title: DOHA FORUM
         additional_links:
           - title: Github page for project
             icon: fab fa-github
             url: https://github.com/Acacian/Forum
+          - title: blog page for project
+            icon: fab fa-blog
+            url: https://github.com/Acacian/Forum
         description: | # this will include new lines to allow paragraphs
           작업기간 : 2주
 
-          작업개요 : 
+          작업개요 : 나만무(팀 프로젝트) 전, 개인 역량을 올리기 위해 진행했던 프로젝트입니다.
 
           참여인원 : 단독 프로젝트
 
@@ -135,7 +138,7 @@ content:
 
           Fact : 프론트엔드와 백엔드 모두 단독으로 개발하였습니다.
 
-          Lesson : 프론트엔드와 백엔드를 둘 다 개발하면서, 프론트엔드와 백엔드의 연결이 얼마나 중요한지 깨달았습니다.
+          Lesson : 처음에는 백엔드만 공부하다가 구현 확인을 위해 프론트엔드까지 개발해 보면서, 프론트엔드와 백엔드의 연결이 얼마나 중요한지 깨달았습니다.
 
   - title: Experience
     layout: list
