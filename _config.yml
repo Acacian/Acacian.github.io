@@ -117,7 +117,8 @@ content:
 
           Lesson : 테스트를 자주 해서 최악의 상황을 방지해야겠다고 생각했고, UI뿐만 아니라 UX도 신경써야 함을 체감했습니다. 또한 짧은 시간에 구현하느라 난잡하게 코드를 짠 게 아쉬웠는데, 처음에 구조를 어느 정도 생각한 후 구현해야 함을 배웠습니다.
       - layout: left
-        border: weak 
+        border: weak # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
         title: DOHA FORUM
         additional_links:
           - title: Github page for project
