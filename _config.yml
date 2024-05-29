@@ -119,24 +119,23 @@ content:
         border: weak 
         title: 
         additional_links:
-          - title:  Github page for project
-            icon: fab fa-youtube
-            url: https://youtu.be/G8jUvp6-Row
+          - title: Github page for project
+            icon: fab fa-github
+            url: https://github.com/Acacian/Forum
         description: | # this will include new lines to allow paragraphs
-          작업기간 : 4주
+          작업기간 : 2주
 
           작업개요 : 
 
-          참여인원 : 5명
+          참여인원 : 단독 프로젝트
 
-          담당 역할 : Frontend
+          담당 역할 : Backend / Frontend
 
-          주요 기능 : Zoom이나 Discord처럼 실시간으로 채팅과 화상통화를 통해 소통하되, 코드 에디터 및 문제 크롤링 기능, AI 힌트 등을 추가해 개발자들의 알고리즘 공부에 도움이 되는 쪽으로 좀 더 초점을 맞추어 개발하였습니다.
+          주요 기능 : CRUD를 포함해, JWT를 이용한 인증 및 권한 부여, 게시판 기능을 구현하였고 Websocket을 이용해 실시간 채팅 기능을 추가하였습니다.
 
-          Fact : 로그인, 로그아웃, 회원가입, 메인 페이지의 프론트엔드 전체를 담당해서 개발하였고, 백엔드 코드 작성(채팅, 코드 에디터)의 일부를 담당하였습니다.
+          Fact : 프론트엔드와 백엔드 모두 단독으로 개발하였습니다.
 
-          Lesson : 테스트를 자주 해서 최악의 상황을 방지해야겠다고 생각했고, UI뿐만 아니라 UX도 신경써야 함을 체감했습니다. 또한 짧은 시간에 구현하느라 난잡하게 코드를 짠 게 아쉬웠는데, 처음에 구조를 어느 정도 생각한 후 구현해야 함을 배웠습니다.
-
+          Lesson : 프론트엔드와 백엔드를 둘 다 개발하면서, 프론트엔드와 백엔드의 연결이 얼마나 중요한지 깨달았습니다.
 
   - title: Experience
     layout: list
