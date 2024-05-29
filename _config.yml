@@ -81,7 +81,7 @@ content:
           * Redis를 이용해 세션 관리 및 캐싱을 구현할 수 있습니다.
           * MySQL을 포함해 NoSQL인 MongoDB,Mongoose를 이용해 데이터베이스를 설계하고 사용할 수 있습니다.
           * 기본적인 CRUD를 포함해 JWT를 이용해 인증 및 권한 부여를 구현할 수 있습니다.
-          
+
       - layout: left
         border: weak  
         title: Flutter
@@ -97,12 +97,9 @@ content:
                       # other value (or no value) means no border will be displayed
         title: ONCORE
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+          - title:  Github page for project
+            icon: fab fa-circle-play
+            url: Link to project
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
