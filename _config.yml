@@ -123,7 +123,7 @@ content:
             icon: fab fa-github
             url: https://github.com/Acacian/Forum
           - title: Blog page for project
-            icon: fab fa-github
+            icon: fab fa-readme
             url: https://blog.naver.com/koo9811/223417241220
         description: | # this will include new lines to allow paragraphs
           작업기간 : 2주
@@ -154,18 +154,17 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
+        title: Krafton Jungle
         sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
+        caption: 2024.01 ~ 2024.05
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Pintos
+          
 
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      업무에 필요하다면 능숙한 분야가 아니더라도 적극적으로 배우고, 빠르게 적응합니다. 또한, 팀원들과의 소통을 중요하게 생각하며, 팀원들과의 의견을 존중하고, 팀원들이 더 나은 방향으로 나아갈 수 있도록 도와주는 것을 중요하게 생각합니다.
+      업무에 필요하다면 <mark>능숙한 분야가 아니더라도 적극적으로 배우고, 빠르게 적응</mark>합니다. 또한, 팀원들과의 소통을 중요하게 생각하며, 팀원들과의 의견을 존중하고, 팀원들이 더 나은 방향으로 나아갈 수 있도록 도와주는 것을 중요하게 생각합니다.
 
 # Footer
 footer_show_references: true
