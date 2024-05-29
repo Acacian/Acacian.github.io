@@ -52,7 +52,8 @@ additional_links:
 about_profile_image: images/Profile.png
 about_content: | # this will include new lines to allow paragraphs
   개발자의 핵심 역량은 비즈니스의 가치를 이해하고, 이를 구현하는 것이라고 생각하는 주니어 개발자입니다.
-  제 <mark>개발 지식과 언어</mark>로 프로덕트에 기여하고 싶습니다.
+
+  <mark>개발 지식과 언어</mark>로 프로덕트에 기여하고 싶습니다.
 
   군대에 있으면서 학점은행제, 독학사 제도를 활용해 <mark>컴퓨터공학과</mark> 학위를 취득하였습니다. 그 과정에서 개발을 시작하게 되었지만 당시에는 다른 일을 하고 있었기에, 개발을 정말 좋아하는 건지 아니면 단순한 취미였는지 고민이 많았습니다. 결국 이를 확인하기 위해 잘 지내던 안락한 환경을 뛰쳐나왔고, 개발자의 길을 걷기로 결정했습니다.
 
