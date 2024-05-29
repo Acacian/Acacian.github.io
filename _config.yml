@@ -123,8 +123,8 @@ content:
             icon: fab fa-github
             url: https://github.com/Acacian/Forum
           - title: blog page for project
-            icon: fab fa-blog
-            url: https://github.com/Acacian/Forum
+            icon: fab fa-house
+            url: https://blog.naver.com/koo9811/223417241220
         description: | # this will include new lines to allow paragraphs
           작업기간 : 2주
 
