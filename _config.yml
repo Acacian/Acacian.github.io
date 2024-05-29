@@ -116,7 +116,7 @@ content:
           Fact : 로그인, 로그아웃, 회원가입, 메인 페이지의 프론트엔드 전체를 담당해서 개발하였고, 백엔드 코드 작성(채팅, 코드 에디터)의 일부를 담당하였습니다.
 
           Lesson : 테스트를 자주 해서 최악의 상황을 방지해야겠다고 생각했고, UI뿐만 아니라 UX도 신경써야 함을 체감했습니다. 또한 짧은 시간에 구현하느라 난잡하게 코드를 짠 게 아쉬웠는데, 처음에 구조를 어느 정도 생각한 후 구현해야 함을 배웠습니다.
-      - layout: left
+        - layout: left
         border: weak # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: DOHA FORUM
