@@ -183,6 +183,12 @@ content:
         caption: 2024.01 ~ 2024.05
         description: | # this will include new lines to allow paragraphs
           Python, 알고리즘부터 시작해 C언어, 자료구조, 네트워크, 운영체제 등 컴퓨터공학(CS)에서 배워야 할 기본적인 지식을 5개월간, 매주 100시간 이상 몰입하여 학습하였습니다.
+      - layout: top-right
+        title: 컴퓨터공학 전공
+        sub_title: 
+        caption: 2024.01 ~ 2024.05
+        description: | # this will include new lines to allow paragraphs
+          Python, 알고리즘부터 시작해 C언어, 자료구조, 네트워크, 운영체제 등 컴퓨터공학(CS)에서 배워야 할 기본적인 지식을 5개월간, 매주 100시간 이상 몰입하여 학습하였습니다.
 
   - title: A Little More About Me
     layout: text
