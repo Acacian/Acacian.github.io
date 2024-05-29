@@ -68,29 +68,23 @@ content:
       - layout: left
         border: weak  
         title: React
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           * PureComponent와 React.memo에 대해서 이해하고 적절한 상황에서만 사용합니다.
           * React hooks를 능숙하게 사용하고, 거의 모든 컴포넌트를 함수로 만듭니다. hook을 이용해 공통 비즈니스 로직을 적절히 모듈화해 사용할 수 있습니다.
-    content:
+
       - layout: left
         border: weak  
         title: Node.js / Nest.js
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           * Express.js 프레임워크를 사용해 HTTP서버를 구축하고 RESTful API를 설계할 수 있습니다.
           * Socket.io를 이용해 실시간 통신 기능을 구현할 수 있습니다.
           * Redis를 이용해 세션 관리 및 캐싱을 구현할 수 있습니다.
           * MySQL을 포함해 NoSQL인 MongoDB,Mongoose를 이용해 데이터베이스를 설계하고 사용할 수 있습니다.
           * 기본적인 CRUD를 포함해 JWT를 이용해 인증 및 권한 부여를 구현할 수 있습니다.
-    content:
+
       - layout: left
         border: weak  
         title: Flutter
-        quote: >
-          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           * Firebase Realtime Database를 사용해 실시간 동기화가 필요한 애플리케이션을 구현할 수 있으며 Firebase Authentication을 사용해 사용 및 소셜 로그인 기능을 구현할 수 있습니다.
           * 앱스토어(iOS App Store)와 구글 플레이스토어(Google Play Store)에 애플리케이션을 배포할 수 있습니다.
@@ -101,9 +95,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: ONCORE
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
