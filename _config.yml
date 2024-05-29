@@ -98,7 +98,7 @@ content:
         title: ONCORE
         additional_links:
           - title:  Github page for project
-            icon: fab fa-circle-play
+            icon: fab fa-video
             url: Link to project
         quote: >
           Short overview of the project (optional)
