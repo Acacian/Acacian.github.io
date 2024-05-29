@@ -140,6 +140,28 @@ content:
 
           Lesson : 처음에는 백엔드만 공부하다가 구현 확인을 위해 프론트엔드까지 개발해 보면서, 프론트엔드와 백엔드의 연결이 얼마나 중요한지 깨달았습니다.
 
+        - layout: left
+        border: weak 
+        title: MoonCheolGo
+        additional_links:
+          - title: Github page for project
+            icon: fab fa-github
+            url: https://github.com/Acacian/MoonCheolGo
+        description: | # this will include new lines to allow paragraphs
+          작업기간 : 3일
+
+          작업개요 : 정글에서 맨 처음 주어지는 과제, 3일만에 정상적으로 작동하는 웹 서비스를 만드는 것이 목표였습니다.
+
+          참여인원 : 3명
+
+          담당 역할 : Backend
+
+          주요 기능 : Flask를 이용해 간단한 서버를 만들고 CRUD 및 JWT를 이용한 인증 및 권한 부여와 함께 투표 기능 및 타이머 기능을 구현하였습니다.
+
+          Fact : 로그인 및 회원가입, DB 설계를 담당했습니다.
+
+          Lesson : 백엔드를 맡은 동료와 DB 설계 때문에 의견이 맞지 않아 어려움을 겪었고 이를 해결하기 위해 서로의 의견을 존중하고 합의점을 찾아야 한다는 것을 배웠습니다.
+
   - title: Experience
     layout: list
     content:
@@ -155,11 +177,10 @@ content:
     content:
       - layout: top-right
         title: Krafton Jungle
-        sub_title: Qualifications (eg. BA Performing Arts)
+        sub_title: 4th
         caption: 2024.01 ~ 2024.05
         description: | # this will include new lines to allow paragraphs
-          Pintos
-          
+          Python, 알고리즘부터 시작해 C언어, 자료구조, 네트워크, 운영체제 등 컴퓨터공학(CS)에서 배워야 할 기본적인 지식을 5개월간, 매주 100시간 이상 몰입하여 학습하였습니다.
 
   - title: A Little More About Me
     layout: text
