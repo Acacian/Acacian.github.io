@@ -102,9 +102,13 @@ content:
             url: https://youtu.be/G8jUvp6-Row
         description: | # this will include new lines to allow paragraphs
           작업기간 : 4주
+
           작업개요 : 
+
           참여인원 : 5명
+
           담당 역할 : 로그인/회원가입/방 찾기 Frontend
+          
           주요 기능 : Zoom이나 Discord처럼 실시간으로 채팅과 화상통화를 통해 소통하되, 코드 에디터 및 문제 크롤링 기능, AI 힌트 등을 추가해 개발자들의 알고리즘 공부에 도움이 되는 쪽으로 좀 더 초점을 맞추어 개발하였습니다.
   - title: Experience
     layout: list
