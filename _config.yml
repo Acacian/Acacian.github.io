@@ -12,7 +12,7 @@ email: koo9811@naver.com
 # email_title: Email (Email title override)
 phone: 010-6814-9669
 # phone_title: Phone (Phone title override)
-blog: https://blog.naver.com/koo9811
+Web: https://blog.naver.com/koo9811
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,12 +20,12 @@ darkmode: false
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username: Acacian
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 flickr_username: jekyll
-instagram_username: jekyll
-linkedin_username: jekyll
+instagram_username: ku_doha
+linkedin_username: 구동하
 xing_username: jekyll
 pinterest_username: jekyll
 youtube_username: jekyll
