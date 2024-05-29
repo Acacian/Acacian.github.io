@@ -21,7 +21,7 @@ darkmode: false
 # Social links
 github_username: Acacian
 instagram_username: ku_doha
-linkedin_username: /in/otkling
+linkedin_username: otkling
 
 # Additional icon links
 additional_links:
@@ -42,7 +42,7 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/Profile.png
 about_content: | # this will include new lines to allow paragraphs
-  
+  개발자의 핵심 역량은 [markdown](비즈니스의 가치를 이해하고, 이를 구현하는 것)이라고 생각하는 주니어 개발자입니다.
   
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
