@@ -19,16 +19,9 @@ website: https://blog.naver.com/koo9811
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
 github_username: Acacian
-stackoverflow_username: "00000001"
 instagram_username: ku_doha
 linkedin_username: in/otkling/
-xing_username: jekyll
-pinterest_username: jekyll
-youtube_username: jekyll
-orcid_username: 0000-0000-0000-0000
-googlescholar_username: D847cGsAAAAJ
 
 # Additional icon links
 additional_links:
