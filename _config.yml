@@ -53,7 +53,7 @@ about_profile_image: images/Profile.png
 about_content: | # this will include new lines to allow paragraphs
   개발자의 핵심 역량은 비즈니스의 가치를 이해하고, 이를 구현하는 것이라고 생각하는 주니어 개발자입니다.
 
-  <mark>개발 지식과 언어</mark>로 프로덕트에 기여하며 <mark>주도적으로 내 직무에서 전문가가 되기 위해</mark> 노력하고 있습니다.
+  <mark>개발 지식과 언어</mark>로 프로젝트에 기여하며 <mark>주도적으로 내 직무에서 전문가가 되기 위해</mark> 노력하고 있습니다.
 
   <mark>크래프톤 정글 4기</mark>에 참여하며 누군가가 강제로 시켜서 하는 것이 아닌 스스로 주 100시간 이상의 개발을 진행해 보면서, <mark>개발 자체를 좋아하고 있다고 확신</mark>하고 개발자의 길에 뛰어들게 되었습니다.
   
@@ -95,19 +95,19 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: ONCORE
+        title: ONCORE 프로젝트 프론트엔드 개발
         additional_links:
           - title:  youtube page for project
             icon: fab fa-youtube
             url: https://youtu.be/G8jUvp6-Row
         description: | # this will include new lines to allow paragraphs
-          작업기간 : 4주
+          알고리즘도 이제는 온라인으로, ONCORE
+          인원 및 기간 : 5명 / 4주
 
-          작업개요 : 크래프톤 정글 4기 팀 프로젝트입니다.
+          - 로그인, 회원가입, 메인 페이지의 프론트엔트 컴포넌트 개발 전체를 담당하였습니다.
+          - 백엔드 개발(채팅 및 코드 에디터)의 일부를 지원하였습니다.
 
-          참여인원 : 5명
-
-          담당 역할 : Frontend
+          - 지속적인 테스트로 최악의 상황 방지 및 UI/UX 개선 경험 공유
 
           주요 기능 : Zoom이나 Discord처럼 실시간으로 채팅과 화상통화를 통해 소통하되, 코드 에디터 및 문제 크롤링 기능, AI 힌트 등을 추가해 개발자들의 알고리즘 공부에 도움이 되는 쪽으로 좀 더 초점을 맞추어 개발하였습니다.
 
@@ -167,7 +167,7 @@ content:
       - layout: right
         title: air force
         sub_title: 7 years
-        caption: 2022.08 - 2023.10 (실제 전역일 2024.02)
+        caption: 2017.03 - 2024.03
         link:
         description: | # this will include new lines to allow paragraphs 
           7년간의 군대 생활
@@ -194,7 +194,7 @@ content:
         sub_title: certified
         caption: 2019.10 ~ 2019.12
         description: | # this will include new lines to allow paragraphs
-          군대생활을 하면서 학점은행제, 독학사 제도를 활용해 컴퓨터공학과 학위를 취득하였습니다. 
+          빅데이터의 중요 성격을 이해하고, 데이터를 분석하고 처리하는 능력을 키우기 위해 ADSP 자격증을 취득하였습니다.
 
   - title: A Little More About Me
     layout: text
