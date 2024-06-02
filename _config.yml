@@ -168,8 +168,9 @@ content:
         title: air force
         sub_title: 7 years
         caption: 2022.08 - 2023.10 (실제 전역일 2024.02)
-        link: Link to company (optional)
+        link: 
         description: | # this will include new lines to allow paragraphs 
+        7년간의 군대 생활
 
   - title: Education
     layout: list
@@ -201,7 +202,7 @@ content:
       업무에 필요하다면 <mark>능숙한 분야가 아니더라도 적극적으로 배우고, 빠르게 적응</mark>합니다. 또한, 팀원들과의 소통을 중요하게 생각하며, 팀원들과의 의견을 존중하고, 팀원들이 더 나은 방향으로 나아갈 수 있도록 도와주는 것을 중요하게 생각합니다.
 
 # Footer
-footer_show_references: true
+footer_show_references: false # Show references section (true/false)
 # references_title: References on request (Override references text)
 
 # Build settings
