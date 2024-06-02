@@ -168,7 +168,7 @@ content:
         title: air force
         sub_title: 7 years
         caption: 2022.08 - 2023.10 (실제 전역일 2024.02)
-        link: 
+        # link: 
         description: | # this will include new lines to allow paragraphs 
         7년간의 군대 생활
 
