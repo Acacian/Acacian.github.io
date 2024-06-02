@@ -165,9 +165,9 @@ content:
     layout: list
     content:
       - layout: right
-        title: 
-        sub_title: 
-        caption: 2022.08 - present
+        title: air force
+        sub_title: 7 years
+        caption: 2022.08 - 2023.10 (실제 전역일 2024.02)
         link: Link to company (optional)
         description: | # this will include new lines to allow paragraphs 
 
@@ -191,7 +191,7 @@ content:
       - layout: left
         title: ADSP
         sub_title: certified
-        caption: 2021.02 ~ 2023.07
+        caption: 2019.10 ~ 2019.12
         description: | # this will include new lines to allow paragraphs
           군대생활을 하면서 학점은행제, 독학사 제도를 활용해 컴퓨터공학과 학위를 취득하였습니다. 
 
