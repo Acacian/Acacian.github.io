@@ -102,8 +102,9 @@ content:
             url: https://youtu.be/G8jUvp6-Row
         description: | # this will include new lines to allow paragraphs
           알고리즘 공부를 온라인으로 다같이 할 수 있게 도와주는 서비스입니다.
-          ![ONCORE Snapshot](/images/ONCORE.png)
-          ![ONCORE Snapshot](/images/ONCORE2.png)
+
+          ![ONCORE Snapshot](/images/ONCORE.png)![ONCORE Snapshot](/images/ONCORE2.png)
+
           인원 및 기간 : 5명 / 4주
 
           - React를 통해 로그인, 회원가입, 메인 페이지의 프론트엔트 컴포넌트 개발 전체 담당
