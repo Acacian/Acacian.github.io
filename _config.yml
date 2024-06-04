@@ -95,13 +95,16 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: ONCORE 프로젝트 프론트엔드 개발
+        title: ONCORE
+        
+        프론트엔드 개발
         additional_links:
           - title:  youtube page for project
             icon: fab fa-youtube
             url: https://youtu.be/G8jUvp6-Row
         description: | # this will include new lines to allow paragraphs
-          알고리즘도 이제는 온라인으로, ONCORE
+          알고리즘 공부를 온라인으로 다같이, ONCORE
+
           인원 및 기간 : 5명 / 4주
 
           - 로그인, 회원가입, 메인 페이지의 프론트엔트 컴포넌트 개발 전체를 담당하였습니다.
