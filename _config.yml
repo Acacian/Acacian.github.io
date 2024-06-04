@@ -123,7 +123,7 @@ content:
             icon: fab fa-readme
             url: https://blog.naver.com/koo9811/223417241220
         description: | # this will include new lines to allow paragraphs
-          팀 프로젝트 전, 개인 역량을 올리기 위해 진행했던 프로젝트입니다. Socket.io를 이용한 실시간 채팅 기능이 구현되어 있습니다.
+          팀 프로젝트 전, 개인 역량을 올리기 위해 진행했던 프로젝트입니다.
 
           인원 및 기간 : 단독 프로젝트 / 2주
 
