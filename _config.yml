@@ -127,11 +127,10 @@ content:
 
           인원 및 기간 : 단독 프로젝트 / 2주
 
-          주요 기능 : CRUD를 포함해, JWT를 이용한 인증 및 권한 부여, 게시판 기능을 구현하였고 Websocket을 이용해 실시간 채팅 기능을 추가하였습니다.
+          - React, Node.js를 통해 프론트엔드와 백엔드 모두 단독으로 개발
+          - 기본적인 CRUD를 포함해 JWT인증, Socket.io를 이용한 실시간 채팅 기능 구현
+          - 문제점 및 해결 방법을 블로그에 정리하며 기록의 중요성 경험
 
-          Fact : 프론트엔드와 백엔드 모두 단독으로 개발하였습니다.
-
-          Lesson : 처음에는 백엔드만 공부하다가 구현 확인을 위해 프론트엔드까지 개발해 보면서, 프론트엔드와 백엔드의 연결이 얼마나 중요한지 깨달았습니다.
       - layout: left
         border: weak 
         title: MoonCheolGo
@@ -188,7 +187,7 @@ content:
           7년간의 의무 군대 생활을 하면서 학점은행제, 독학사 제도를 활용해 컴퓨터공학과 학위를 취득하였습니다.
       - layout: left
         title: ADSP
-        sub_title: certified
+        sub_title: Certified
         caption: 2019.10 ~ 2019.12
         description: | # this will include new lines to allow paragraphs
           빅데이터의 중요 성격을 이해하고, 데이터를 분석하고 처리하는 능력을 키우기 위해 ADSP 자격증을 취득하였습니다.
