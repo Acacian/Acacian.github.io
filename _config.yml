@@ -100,6 +100,7 @@ content:
           - title:  youtube page for project
             icon: fab fa-youtube
             url: https://youtu.be/G8jUvp6-Row
+            image: images/ONCORE.png
         description: | # this will include new lines to allow paragraphs
           알고리즘 공부를 온라인으로 다같이 할 수 있게 도와주는 서비스입니다.
 
@@ -108,7 +109,7 @@ content:
           - React를 통해 로그인, 회원가입, 메인 페이지의 프론트엔트 컴포넌트 개발 전체 담당
           - Nest.js를 통해 백엔드 개발(채팅 및 코드 에디터) 일부 지원
           - 지속적인 테스트로 최악의 상황 방지 및 UI/UX 개선 경험 공유
-          
+
       - layout: left
         border: weak # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
