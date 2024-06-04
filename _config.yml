@@ -57,7 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   자발적으로 주 100시간 이상 개발을 진행하면서, <mark>개발에 대한 깊은 열정을 가지고 있다고 확신</mark>했습니다.
   
-  현재는 <mark>팀원들과 사이드 프로젝트를 진행</mark>하며 개발 역량을 키우고 있으며, 특히 서비스의 품질과 성능을 결정짓는 핵심적인 부분인 <mark>알고리즘과 자료구조</mark>를 중점으로 학습 중입니다.
+  현재는 <mark>팀원들과 사이드 프로젝트를 진행</mark>하며 개발 역량을 키우고 있으며,
+  
+  특히 서비스의 품질과 성능을 결정짓는 핵심적인 부분인 <mark>알고리즘과 자료구조</mark>를 중점으로 학습 중입니다.
 
 content:
   - title: Core Strength # Title for the section
