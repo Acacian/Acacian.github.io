@@ -90,6 +90,7 @@ content:
           * Firebase Realtime Database를 사용해 실시간 동기화가 필요한 애플리케이션을 구현할 수 있으며 Firebase Authentication을 사용해 사용 및 소셜 로그인 기능을 구현할 수 있습니다.
           * Flutter의 Hot Reload 기능을 사용하여 코드 변경 사항을 즉시 반영하고, 개발 속도를 크게 향상시킬 수 있습니다.
           * 앱스토어(iOS App Store)와 구글 플레이스토어(Google Play Store)에 애플리케이션을 배포할 수 있습니다.
+          * supabase를 사용해 빠르게 백엔드를 구축하고, RESTful API를 사용해 데이터를 가져오고, 저장할 수 있습니다.
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
