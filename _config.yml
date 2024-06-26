@@ -124,6 +124,7 @@ content:
             url: https://github.com/Acacian/DHPintos
         description: | # this will include new lines to allow paragraphs
           대한민국 상위 5개 대학에서만 과제로 주어지는 OS의 주요 기능들을
+          
           동료들과 함께 C로 직접 구현해 보는 프로젝트입니다.
 
           ![PINTOS Snapshot](/images/pintOS.png)
@@ -187,7 +188,11 @@ content:
         sub_title: Graduated
         caption: 2021.02 ~ 2023.07
         description: | # this will include new lines to allow paragraphs
-          7년간의 의무 군대 생활을 하면서 학점은행제, 독학사 제도를 활용해 컴퓨터공학과 학위를 취득하였습니다.
+          7년간의 의무 군대 생활을 하면서 컴퓨터공학과 학위를 3.5점대의
+          
+          무난한 학점으로 취득하였으며 특히 자료구조, 운영체제 등에서는
+
+          높은 성적을 받았습니다.
       - layout: left
         title: ADSP
         sub_title: Certified
