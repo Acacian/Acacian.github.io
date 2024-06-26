@@ -115,6 +115,26 @@ content:
           - 지속적인 테스트로 최악의 상황 방지 및 UI/UX 개선 경험 공유
 
       - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: PINTOS
+        additional_links:
+          - title:  Github page for project
+            icon: fab fa-github
+            url: https://github.com/Acacian/DHPintos
+        description: | # this will include new lines to allow paragraphs
+          대한민국 상위 5개 대학에서만 과제로 주어지는 OS의 주요 기능들을
+          동료들과 함께 C로 직접 구현해 보는 프로젝트입니다.
+
+          ![PINTOS Snapshot](/images/pintOS.png)
+
+          인원 및 기간 : 3명 / 7주
+
+          - AWS의 Ubuntu Server를 활용한 Linux 환경 및 C언어로 개발
+          - Thread, System Call, Virtual Memory 기능들을 직접 구현
+          - 수 만 줄의 코드를 디버깅하며 문제점을 찾아내고 해결하는 경험
+
+      - layout: left
         border: weak # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
         title: DOHA FORUM
