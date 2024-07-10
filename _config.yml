@@ -110,7 +110,7 @@ content:
 
           인원 및 기간 : 5명 / 4주
 
-          백엔드 : 타입 검사가 있는 Typescript를 기본으로 사용하면서도 express 등을 그대로 사용할 수 있는 nest.js를 사용
+          백엔드 : 타입 검사가 있는 Typescript를 기본으로 사용하면서도 express 등을 그대로 사용 가능한 nest.js를 사용
           
           프론트엔드 : DOM 조작이 가능한 React.js를 사용
 
