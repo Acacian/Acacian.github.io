@@ -57,7 +57,7 @@ about_content: | # this will include new lines to allow paragraphs
 
   자발적으로 주 100시간 이상 개발을 진행하면서, <mark>개발에 대한 깊은 열정을 가지고 있다고 확신</mark>했으며,
   
-  지금도 <mark>혼자 백엔드 프로젝트를 진행</mark>하고 알고리즘 공부를 하며 개발 역량을 키우고 있습니다.
+  지금도 <mark>혼자 백엔드 프로젝트를 진행</mark>하고 <mark>알고리즘 공부</mark>를 하며 개발 역량을 키우고 있습니다.
 
 content:
   - title: Core Strength # Title for the section
@@ -102,7 +102,9 @@ content:
             icon: fab fa-youtube
             url: https://youtu.be/G8jUvp6-Row
         description: | # this will include new lines to allow paragraphs
-          알고리즘 공부를 온라인으로 다같이 할 수 있게 도와주는 서비스입니다.
+          ONCORE - Online Core Time / 이름은 앙코르의 ENCORE에서 따왔습니다.
+          
+          크래프톤 정글에서 처음 1~3주간 알고리즘 문제를 매일 풀었고 코어 타임이라는 과정을 만들어 문제를 푼 과정을 공유했는데, 나의 관점을 공유하며 다른 사람들이 나와는 다른 관점으로 문제를 푸는 모습을 보며 많은 것을 배울 수 있었습니다. 저희는 함께 합숙하며 공부하는 정글 과정이 끝나면 열정적이었던 멤버들과 코어 타임을 가질 수 없게 되는 것이 아쉬웠고, 오프라인이 안 된다면 온라인으로 코어 타임을 가질 수는 없을까 라는 고민을 해결하기 위해 ONCORE를 기획하였습니다.
 
           ![ONCORE Snapshot](/images/ONCORE.png)
 
