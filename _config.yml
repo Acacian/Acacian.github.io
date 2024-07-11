@@ -245,8 +245,10 @@ content:
         title: My Favorite Movie
         description: | # this will include new lines to allow paragraphs
           크래프톤 정글 합류 전, 입학시험으로 진행했던 프로젝트
-          입학시험을 위해 Ajax, API, DB, AWS 등을 혼자 공부하였으며 입학시험 당일 화면에
-          있는 모든 기능들(정렬, 휴지통, 좋아요 등)을 7시간 안에 구현 및 배포가 목표
+
+          입학시험을 위해 Ajax, API, DB, AWS 등을 혼자 공부하였으며 입학시험 당일
+          
+          화면에 있는 모든 기능들(정렬, 휴지통, 좋아요 등)을 7시간 안에 구현 및 배포가 목표
           
           ![MyFavoriteMovie Snapshot](/images/mfm.png)
 
