@@ -124,6 +124,9 @@ content:
           - title:  youtube page for project
             icon: fab fa-youtube
             url: https://youtu.be/G8jUvp6-Row
+          - title:  github page for project
+            icon: fab fa-github
+            url: https://github.com/Acacian/ONCORE
         description: | # this will include new lines to allow paragraphs
           ONCORE - Online Core Time / 이름은 앙코르의 ENCORE에서 따왔습니다.
 
