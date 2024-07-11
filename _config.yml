@@ -57,9 +57,9 @@ about_content: | # this will include new lines to allow paragraphs
 
   <mark>KAIST의 비학위과정인 SW사관학교 커리큘럼 기반 과정</mark>을 자발적으로 주 100시간 이상 개발에 매진할 정도로 개발을 좋아하며,
 
-  Pintos 프로젝트를 통해 <mark>몇 만줄의 코드 속에서 에러를 해결</mark>하고 OS 기능을 구현한 경험이 있으며, 이를 바탕으로 프로젝트에서 발생하는 버그를 해결하고 사용자 경험을 개선하기 위해 Redis를 사용해 문제 불러오는 속도를 크게 개선한 성과를 냈습니다.
+  Pintos 프로젝트를 통해 <mark>몇 만줄의 코드 속에서 문제를 찾아내며</mark> OS 기능을 구현한 경험이 있으며, 이를 바탕으로 프로젝트에서 발생하는 버그를 해결하고 사용자 경험을 개선하기 위해 Redis를 사용해 문제 불러오는 속도를 크게 개선한 성과를 냈습니다.
 
-  현재도 혼자 <mark>백엔드 프로젝트를 진행</mark>하고 알고리즘 공부를 통해 개발 역량을 꾸준히 키우고 있습니다.
+  현재도 멈추지 않고 혼자 <mark>백엔드 프로젝트를 진행</mark>하고 알고리즘 공부를 통해 역량을 꾸준히 키우고 있습니다.
 
 content:
   - title: Core Strength # Title for the section
