@@ -71,30 +71,45 @@ content:
     content:
       - layout: left
         border: strong
-        title: Node.js / Nest.js
+        title: Backend
         description: | # this will include new lines to allow paragraphs
-          * Express.js 프레임워크를 사용해 HTTP 서버를 구축하고 RESTful API를 설계할 수 있습니다.
-          * Socket.io를 이용해 실시간 통신 기능을 구현할 수 있습니다.
-          * Redis를 이용해 세션 관리 및 캐싱을 구현할 수 있습니다.
-          * MySQL을 포함해 NoSQL인 MongoDB, Mongoose를 이용해 데이터베이스를 설계하고 사용할 수 있습니다.
-          * 기본적인 CRUD를 포함해 JWT를 이용해 인증 및 권한 부여를 구현합니다.
+          * Node.js(JavaScript)
+          * Nest.js(TypeScript)
+          * Java(Spring Boot)
+          * Python(Flask, Django)
 
       - layout: left
         border: strong
-        title: React
+        title: Frontend
         description: | # this will include new lines to allow paragraphs
-          * React.memo 및 PureComponent의 차이에 대해서 이해하고 적절한 상황에서만 사용합니다.
-          * React hooks를 능숙하게 활용하여 대부분의 컴포넌트를 함수형으로 만들고, 공통 비즈니스 로직을 hook를 이용해 모듈화하여 재사용할 수 있습니다.
-          * React Router를 사용해 SPA(Single Page Application) 내에서의 라우팅을 관리하고, 다양한 페이지 간의 네비게이션을 구현합니다.
+          * React.js
+          * HTML, CSS, JavaScript
+          * Flutter
 
       - layout: left
         border: strong
-        title: Flutter
+        title: Software Engineering
         description: | # this will include new lines to allow paragraphs
-          * Firebase Realtime Database를 사용해 실시간 동기화가 필요한 애플리케이션을 구현할 수 있으며 Firebase Authentication을 사용해 사용 및 소셜 로그인 기능을 구현할 수 있습니다.
-          * Flutter의 Hot Reload 기능을 사용하여 코드 변경 사항을 즉시 반영하고, 개발 속도를 크게 향상시킬 수 있습니다.
-          * 앱스토어(iOS App Store)와 구글 플레이스토어(Google Play Store)에 애플리케이션을 배포할 수 있습니다.
-          * supabase를 사용해 빠르게 백엔드를 구축하고, RESTful API를 사용해 데이터를 가져오고, 저장할 수 있습니다.
+          * C
+          * Linux(Ubuntu)
+          * Makefile, GDB
+
+      - layout: left
+        border: strong
+        title: DevOps
+        description: | # this will include new lines to allow paragraphs
+          * AWS(EC2, RDS, S3)
+          * Docker
+          * Git
+
+      - layout: left
+        border: strong
+        title: DB
+        description: | # this will include new lines to allow paragraphs
+          * MySQL
+          * MongoDB
+          * Redis
+          * Mongoose
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
