@@ -78,7 +78,7 @@ content:
           * Node.js(JavaScript)
           * Nest.js(TypeScript)
           * Java(Spring Boot)
-          * Python(Flask, Django)
+          * Python(Flask)
 
       - layout: left
         border: strong
@@ -197,7 +197,6 @@ content:
 
           [After] : Lock 되기 전 Priority를 양도하는 Donation 기능을 구현해 우선순위의 역전을 막음
 
-
           📌 Virtual Memory 구현
 
           [Before] : RAM의 용량을 넘는 S/W의 실행이 아예 불가능하고, 모든 S/W의 내용이 RAM에 적재되기에 부하가 매우 큼
@@ -228,17 +227,38 @@ content:
 
           🔧 TroubleShooting :
 
-          📌 실시간 채팅 구현
+          📌 채팅 속도 개선
 
           [Before] : 채팅을 보내면 서버 DB에 저장되고, 다시 클라이언트에 뿌려지는 방식으로 구현했으나, 실시간성이 떨어짐
 
           [After] : Socket.io를 사용해 실시간 채팅 기능을 구현
 
-          📌 배포 환경 구축
+          📌 배포 보안 환경 개선
 
           [Before] : 로컬에서만 실행되는 서버를 다른 사람들이 접근할 수 있게 만들기 위해 AWS EC2를 사용했으나, 서버를 실행하고 나서도 접속이 안됨
 
           [After] : AWS EC2의 보안 그룹 설정을 통해 포트를 열어주고, 서버를 실행하면 다른 사람들도 접속할 수 있게 함
+
+      - layout: left
+        border: weak # Value of `weak` will display a weak border below this item. # Any 
+                      # other value (or no value) means no border will be displayed
+        title: My Favorite Movie
+        description: | # this will include new lines to allow paragraphs
+          크래프톤 정글 합류 전, 입학시험으로 진행했던 프로젝트
+          입학시험을 위해 Ajax, API, DB, AWS 등을 혼자 공부하였으며 입학시험 당일 화면에
+          있는 모든 기능들(정렬, 휴지통, 좋아요 등)을 7시간 안에 구현 및 배포가 목표
+          
+          ![MyFavoriteMovie Snapshot](/images/mfm.png)
+
+          인원 및 기간 : 1명 / 2주(공부 기간, 실제 시험은 7시간)
+
+          🔧 TroubleShooting :
+
+          📌 배포 시 정렬 기능 개선
+
+          [Before] : 로컬에서는 잘 작동하는 정렬 기능이 배포 후에는 작동하지 않음
+
+          [After] : 각 페이지마다 정렬 기능을 구현해 배포
 
   - title: Experience
     layout: list
